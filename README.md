@@ -3,4 +3,7 @@
 - Discord Server : https://discord.gg/DQa2tzpf
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzhy233)](https://github.com/wzhy233)
+[![stats](https://github-readme-stats.vercel.app/api?username=wzhy233&show_icons=true&theme=moltack)](https://github.com/wzhy233)
+
+
+[![stats](https://github-readme-stats.vercel.app/api?username=chloride-dev&show_icons=true&theme=moltack)](https://github.com/chloride-dev)
